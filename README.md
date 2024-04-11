@@ -1,5 +1,7 @@
 I have created two models:
+
 1 - Video Gesture Dectection
+
 2 - Hand Tracker in Realtime to create data for training image models
 
 # **Video Gesture Dectection**
